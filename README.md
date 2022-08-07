@@ -1,2 +1,3 @@
-# CUADERNO-2022-S2
-HOLA :3
+#Introducción a la progrmación
+## Semestre 2 2022
+**Autor:** Sheyron Steven Boyer Valerin
